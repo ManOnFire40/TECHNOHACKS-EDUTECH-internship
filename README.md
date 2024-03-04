@@ -9,4 +9,6 @@ https://www.linkedin.com/posts/mohamed-ehab-osman-468333272_task-2-performing-a-
 Task 3 : Simple data recovery from a USB Pen drive using Recuva
 https://www.linkedin.com/posts/mohamed-ehab-osman-468333272_task-3-simple-data-recovery-from-a-usb-pen-activity-7161420509987917824-f-WB?utm_source=share&utm_medium=member_desktop
 
+DFIR Certificate
+
 ![DFIR certificate ](https://github.com/ManOnFire40/TECHNOHACKS-EDUTECH-internship/assets/124493932/fcf20233-05c6-4783-af5b-c07606ed2055)
